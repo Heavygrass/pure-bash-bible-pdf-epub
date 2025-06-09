@@ -2184,9 +2184,4 @@ printf "%s\n" "${foo}" # BAR
 
 # AFTERWORD
 
-Thanks for reading! If this bible helped you in any way and you'd like to give back, consider donating. Donations give me the time to make this the best resource possible. Can't donate? That's OK, star the repo and share it with your friends!
-
-<a href="https://www.patreon.com/dyla"><img src="https://img.shields.io/badge/donate-patreon-yellow.svg"></a>
-
-
-Rock on. 🤘
+🤘
