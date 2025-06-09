@@ -1,5 +1,3 @@
-<p align="center"><b>NEW: <a href="https://github.com/dylanaraps/pure-sh-bible">pure sh bible (📖 A collection of pure POSIX sh alternatives to external processes).</a></b></p>
-
 <br>
 
 <p align="center"><img src="https://raw.githubusercontent.com/odb/official-bash-logo/master/assets/Logos/Icons/PNG/512x512.png" width="200px"></p>
@@ -25,12 +23,6 @@ The goal of this book is to document commonly-known and lesser-known methods of 
 The snippets below are linted using `shellcheck` and tests have been written where applicable. Want to contribute? Read the [CONTRIBUTING.md](https://github.com/dylanaraps/pure-bash-bible/blob/master/CONTRIBUTING.md). It outlines how the unit tests work and what is required when adding snippets to the bible.
 
 See something incorrectly described, buggy or outright wrong? Open an issue or send a pull request. If the bible is missing something, open an issue and a solution will be found.
-
-<br>
-<p align="center"><b>This book is also available to purchase on leanpub. https://leanpub.com/bash</b></p>
-<p align="center"><b>Or you can buy me a coffee.</b>
-<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=V7QNJNKS3WYVS"><img src="https://img.shields.io/badge/don-paypal-yellow.svg"></a> <a href="https://www.patreon.com/dyla"><img src="https://img.shields.io/badge/don-patreon-yellow.svg"> </a><a href="https://liberapay.com/2211/"><img src="https://img.shields.io/badge/don-liberapay-yellow.svg"></a>
-</p>
 
 <br>
 
