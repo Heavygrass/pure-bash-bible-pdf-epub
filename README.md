@@ -12,6 +12,10 @@ src="https://img.shields.io/badge/license-MIT-blue.svg"></a>
 
 <br>
 
+This repo includes all most recent commits to the book.
+
+It allows to create both PDF and ePub.
+
 The goal of this book is to document commonly-known and lesser-known methods of doing various tasks using only built-in `bash` features. Using the snippets from this bible can help remove unneeded dependencies from scripts and in most cases make them faster.
 
 The snippets below are linted using `shellcheck` and tests have been written where applicable. Want to contribute? Read the [CONTRIBUTING.md](https://github.com/dylanaraps/pure-bash-bible/blob/master/CONTRIBUTING.md). It outlines how the unit tests work and what is required when adding snippets to the bible.
@@ -19,8 +23,9 @@ The snippets below are linted using `shellcheck` and tests have been written whe
 See something incorrectly described, buggy or outright wrong? Open an issue or send a pull request. If the bible is missing something, open an issue and a solution will be found.
 
 
+
 To build PDF/ePub:
-Requires pandoc & XeLaTeX.
+requires pandoc & XeLaTeX.
 
 
 <br>
