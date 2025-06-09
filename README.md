@@ -5,9 +5,7 @@
 align="center">A collection of pure bash alternatives to external
 processes.</p>
 
-<p align="center"> <a
-href="https://travis-ci.com/dylanaraps/pure-bash-bible"><img
-src="https://travis-ci.com/dylanaraps/pure-bash-bible.svg?branch=master"></a>
+<p align="center">
 <a href="./LICENSE.md"><img
 src="https://img.shields.io/badge/license-MIT-blue.svg"></a>
 </p>
@@ -18,7 +16,7 @@ src="https://img.shields.io/badge/license-MIT-blue.svg"></a>
 <img src="https://s3.amazonaws.com/titlepages.leanpub.com/bash/hero" width="40%" align="right">
 </a>
 
-The goal of this book is to document commonly-known and lesser-known methods of doing various tasks using only built-in `bash` features. Using the snippets from this bible can help remove unneeded dependencies from scripts and in most cases make them faster. I came across these tips and discovered a few while developing [neofetch](https://github.com/dylanaraps/neofetch), [pxltrm](https://github.com/dylanaraps/pxltrm) and other smaller projects.
+The goal of this book is to document commonly-known and lesser-known methods of doing various tasks using only built-in `bash` features. Using the snippets from this bible can help remove unneeded dependencies from scripts and in most cases make them faster.
 
 The snippets below are linted using `shellcheck` and tests have been written where applicable. Want to contribute? Read the [CONTRIBUTING.md](https://github.com/dylanaraps/pure-bash-bible/blob/master/CONTRIBUTING.md). It outlines how the unit tests work and what is required when adding snippets to the bible.
 
